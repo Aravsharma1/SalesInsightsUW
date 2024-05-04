@@ -1,2 +1,4 @@
-# WarriorsConnectUW
-A messaging web-app for first year students/warriors at the University of Waterloo.
+# SalesInsightUW
+Income and expenses tracker for international students at UW. 
+
+
